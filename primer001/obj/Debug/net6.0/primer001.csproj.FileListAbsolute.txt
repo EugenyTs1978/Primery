@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\primer\primer001\bin\Debug\net6.0\primer001.exe
+C:\Users\Lenovo\Desktop\primer\primer001\bin\Debug\net6.0\primer001.deps.json
+C:\Users\Lenovo\Desktop\primer\primer001\bin\Debug\net6.0\primer001.runtimeconfig.json
+C:\Users\Lenovo\Desktop\primer\primer001\bin\Debug\net6.0\primer001.dll
+C:\Users\Lenovo\Desktop\primer\primer001\bin\Debug\net6.0\primer001.pdb
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.dll
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\refint\primer001.dll
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.pdb
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\primer001.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\primer\primer001\obj\Debug\net6.0\ref\primer001.dll
